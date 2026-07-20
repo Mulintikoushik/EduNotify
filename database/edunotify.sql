@@ -124,10 +124,10 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`student_id`, `hall_ticket`, `full_name`, `gender`, `dob`, `email`, `phone`, `department`, `year`, `created_at`) VALUES
-(1, '21Y1A6701', 'Rahul Kumar', 'Male', '2003-06-15', '217y1a6711@mlritm.ac.in', '9876543210', 'CSE', 4, '2026-07-17 13:57:26'),
-(3, '21Y1a6702', 'Aravind', 'Male', '2003-07-10', 'challurinamrutha@gmail.com', '8455791365', 'CSE', 1, '2026-07-17 17:47:56'),
-(4, '21Y1a6703', 'Nithya', 'Female', '2004-04-04', 'koushikreddy230803@gmail.com', '6532321879', 'CSE', 2, '2026-07-18 07:57:02'),
-(5, '21Y1A6711', 'Ken', 'Male', '2004-08-23', '21y1a6711@mlritm.ac.in', '9603457522', 'CSE', 4, '2026-07-20 15:03:37');
+(1, '21Y1A6701', 'Rahul Kumar', 'Male', '2003-06-15', 'rahul.kumar@example.com', '9876543210', 'CSE', 4, '2026-07-17 13:57:26'),
+(3, '21Y1a6702', 'Aravind', 'Male', '2003-07-10', 'aravind.reddy@example.com', '8455791365', 'CSE', 1, '2026-07-17 17:47:56'),
+(4, '21Y1a6703', 'Nithya', 'Female', '2004-04-04', 'nithya@gmail.com', '6532321879', 'CSE', 2, '2026-07-18 07:57:02'),
+(5, '21Y1A6711', 'Ken', 'Male', '2004-08-23', 'kenijb@gmail.com', '9603457522', 'CSE', 4, '2026-07-20 15:03:37');
 
 -- --------------------------------------------------------
 
