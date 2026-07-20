@@ -1,0 +1,29 @@
+# XAMPP / OS
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Cache
+.cache/
+
+# Uploads (optional - keep folder only)
+uploads/*
+!uploads/.gitkeep
+
+# Environment files
+.env
+
+# Composer (if used later)
+vendor/
+
+# Node (if used later)
+node_modules/

@@ -1,0 +1,29 @@
+/* =========================
+   PRINT STYLES
+========================= */
+
+@media print {
+
+    nav,
+    .sidebar,
+    form,
+    .btn,
+    .card-header.bg-primary {
+        display: none !important;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .container-fluid {
+        width: 100%;
+    }
+
+    .card {
+        border: none !important;
+        box-shadow: none !important;
+    }
+
+}
